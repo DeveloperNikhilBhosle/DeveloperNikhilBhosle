@@ -1,5 +1,5 @@
 ## Hello! I’m Nikhil Bhosle. 👋
-- 🔭 I’m currently working as a Software Architect ( Technology )
+- 🔭 I’m currently working as a **Software Architect ( Technology )**
 - 🌱 I’m currently learning Docker,Kubernetes Architecture.
 - 😇 My Expertise are : ( System Architecture Setup, Database Queries Optimisation, System Security )
 - 👯 I’m looking to collaborate on well-known, significant companies to simplify their business processes..
