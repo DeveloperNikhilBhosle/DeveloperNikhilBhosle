@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hello! I’m Nikhil Bhosle. 👋
+- 🔭 I’m currently working as a Technology Architect 
+- 🌱 I’m currently learning Docker,Kubernetes Architecture.
+- 😇 My Expertise are : ( System Architecture Setup, Database Queries Optimisation, System Security )
+- 👯 I’m looking to collaborate on well-known, significant companies to simplify their business processes..
+- 📫 How to reach me: **developer.nikhilbhosle@gmail.com** / https://developernikhilbhosle.github.io/portfolio
+  
 <!--
 **DeveloperNikhilBhosle/DeveloperNikhilBhosle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
