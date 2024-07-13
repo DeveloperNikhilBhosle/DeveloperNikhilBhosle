@@ -10,20 +10,20 @@
 - **[Proficiency in JavaScript Technology](https://developernikhilbhosle.github.io/portfolio/images/JS.pdf)**: Completed on [Aug-2023].
 
 
-## Technologies I Use
+## Technologies I Use and Prefer
 
-### Programming Languages
+- Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### Frameworks and Libraries
+- Frameworks and Libraries
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 
-### Tools
+- Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
