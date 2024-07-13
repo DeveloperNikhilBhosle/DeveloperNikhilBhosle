@@ -4,6 +4,11 @@
 - 😇 My Expertise are : ( System Architecture Setup, Database Queries Optimisation, System Security )
 - 👯 I’m looking to collaborate on well-known, significant companies to simplify their business processes..
 - 📫 How to reach me: **developer.nikhilbhosle@gmail.com** / https://developernikhilbhosle.github.io/portfolio
+
+## Certifications
+- **[SQL Advanced](https://developernikhilbhosle.github.io/portfolio/images/SQL.png)**: Completed on [Sep-2020].
+- **[Proficiency in JavaScript Technology](https://developernikhilbhosle.github.io/portfolio/images/JS.pdf)**: Completed on [Aug-2023].
+
   
 <!--
 **DeveloperNikhilBhosle/DeveloperNikhilBhosle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
